@@ -10,4 +10,3 @@ One of the most difficult problems was the ambient lighting variations that chan
 
 4. What I would do next
 Then I would use adaptive colour tracking to automatically adjust for changes in light in the room. I would also add colour histogram filtering to prevent false positives on yellow objects in the background and explore stereo vision or depth estimation for more accurate stopping distances.
-<img width="451" height="571" alt="image" src="https://github.com/user-attachments/assets/f13d90aa-627e-4fa5-913a-641b4f9da27f" />
